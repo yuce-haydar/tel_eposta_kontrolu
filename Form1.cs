@@ -120,4 +120,4 @@ namespace tel_eposta_kontrolu
         }
     }
 }
-//Data Source=(local);Initial Catalog=filmarsiv;Integrated Security=True
+//
